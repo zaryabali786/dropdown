@@ -1,0 +1,291 @@
+{
+
+    "categories": [
+        {
+          "id": 1,
+          "categoryName": "pents"
+        },
+        {
+          "id": 2,
+          "categoryName": "tshirts"
+        },
+        {
+          "id": 3,
+          "categoryName": "checkshirt"
+        },
+        {
+          "id": 4,
+          "categoryName": "laptop"
+        },
+        {
+          "id": "5",
+          "categoryName": "tv"
+        }
+      ],
+        "countery":[
+            {
+                "id":1,
+                "name":"pakistan"
+            },
+            {
+                "id":2,
+                "name":"india"
+            },
+            {
+                "id":3,
+                "name":"dubai"
+            },
+            {
+                "id":4,
+                "name":"uk"
+            },
+            {
+                "id":5,
+                "name":"italy"
+            },
+            {
+                "id":6,
+                "name":"turkey"
+            },
+            {
+                "id":7,
+                "name":"indonesia"
+            },
+
+            {
+                "id":8,
+                "name":"iran"
+            },
+            {
+              "id":1,
+              "name":"pakistan"
+          },
+          {
+              "id":2,
+              "name":"india"
+          },
+          {
+              "id":3,
+              "name":"dubai"
+          },
+          {
+              "id":4,
+              "name":"uk"
+          },
+          {
+              "id":5,
+              "name":"italy"
+          },
+          {
+              "id":6,
+              "name":"turkey"
+          },
+          {
+              "id":7,
+              "name":"indonesia"
+          },
+
+          {
+              "id":8,
+              "name":"iran"
+          },
+          {
+            "id":1,
+            "name":"pakistan"
+        },
+        {
+            "id":2,
+            "name":"india"
+        },
+        {
+            "id":3,
+            "name":"dubai"
+        },
+        {
+            "id":4,
+            "name":"uk"
+        },
+        {
+            "id":5,
+            "name":"italy"
+        },
+        {
+            "id":6,
+            "name":"turkey"
+        },
+        {
+            "id":7,
+            "name":"indonesia"
+        },
+
+        {
+            "id":8,
+            "name":"iran"
+        },
+        {
+          "id":1,
+          "name":"pakistan"
+      },
+      {
+          "id":2,
+          "name":"india"
+      },
+      {
+          "id":3,
+          "name":"dubai"
+      },
+      {
+          "id":4,
+          "name":"uk"
+      },
+      {
+          "id":5,
+          "name":"italy"
+      },
+      {
+          "id":6,
+          "name":"turkey"
+      },
+      {
+          "id":7,
+          "name":"indonesia"
+      },
+
+      {
+          "id":8,
+          "name":"iran"
+      },
+      {
+        "id":1,
+        "name":"pakistan"
+    },
+    {
+        "id":2,
+        "name":"india"
+    },
+    {
+        "id":3,
+        "name":"dubai"
+    },
+    {
+        "id":4,
+        "name":"uk"
+    },
+    {
+        "id":5,
+        "name":"italy"
+    },
+    {
+        "id":6,
+        "name":"turkey"
+    },
+    {
+        "id":7,
+        "name":"indonesia"
+    },
+
+    {
+        "id":8,
+        "name":"iran"
+    },
+    {
+      "id":1,
+      "name":"pakistan"
+  },
+  {
+      "id":2,
+      "name":"india"
+  },
+  {
+      "id":3,
+      "name":"dubai"
+  },
+  {
+      "id":4,
+      "name":"uk"
+  },
+  {
+      "id":5,
+      "name":"italy"
+  },
+  {
+      "id":6,
+      "name":"turkey"
+  },
+  {
+      "id":7,
+      "name":"indonesia"
+  },
+
+  {
+      "id":8,
+      "name":"iran"
+  },
+  {
+    "id":1,
+    "name":"pakistan"
+},
+{
+    "id":2,
+    "name":"india"
+},
+{
+    "id":3,
+    "name":"dubai"
+},
+{
+    "id":4,
+    "name":"uk"
+},
+{
+    "id":5,
+    "name":"italy"
+},
+{
+    "id":6,
+    "name":"turkey"
+},
+{
+    "id":7,
+    "name":"indonesia"
+},
+
+{
+    "id":8,
+    "name":"iran"
+},
+{
+  "id":1,
+  "name":"pakistan"
+},
+{
+  "id":2,
+  "name":"india"
+},
+{
+  "id":3,
+  "name":"dubai"
+},
+{
+  "id":4,
+  "name":"uk"
+},
+{
+  "id":5,
+  "name":"italy"
+},
+{
+  "id":6,
+  "name":"turkey"
+},
+{
+  "id":7,
+  "name":"indonesia"
+},
+
+{
+  "id":8,
+  "name":"iran"
+}
+        ]
+    }

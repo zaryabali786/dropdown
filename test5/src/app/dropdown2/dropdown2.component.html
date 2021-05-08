@@ -1,0 +1,54 @@
+<div class="row">
+    <div class="col-md-4 col-lg-4">
+     <a class="ii "  (click)="click()">     <i class="fa fa-arrow-circle-o-down "></i></a>
+<button n  class="drop btn form-control " (click)="click()" >
+{{selectedname}}
+</button>
+<div    class="show form-group" >
+    <input 
+    appAppFocus
+    autocomplete="false"
+    type="text"   [(ngModel)]="searchText" 
+    *ngIf="select"
+    (keydown)="move($event)"
+    class="form-control "
+    >
+
+<div  class="pip" *ngIf="select" #scroll>
+    <table   class=" ">
+      <!--  <tr  *ngFor="let cat of productList | productsearch:search">
+          <th>{{cat.name}}</th>
+          <td  >{{cat.description}}</td>
+        </tr>-->
+ <tbody  >
+           <tr
+           
+            (click)="onclick1(cat)"
+           *ngFor="let  cat of categorylist | searchFilter:searchText as result;let i=index"
+           activeIndex = "i" 
+           [ngClass]="{'message-list-active': activeIndex === i  }"
+         
+           >
+               <td>{{cat.id}}</td>
+            <td >{{cat.name}} </td>
+            </tr>
+        <!--   <tbody>
+                
+    <tr>
+            <td  >
+                <select  class="form-control" (change)="selected($event)" name="">
+             <option   *ngFor="let  cat of categorylist | searchFilter:searchText"   [value]="cat.id"  >{{cat.categoriesName}}</option> 
+
+</select>
+
+            </td>
+        </tr>-->
+    </tbody>
+  
+        </table>
+       
+    </div>
+
+</div>
+</div>
+</div>

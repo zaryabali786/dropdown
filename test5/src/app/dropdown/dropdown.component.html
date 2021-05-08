@@ -1,0 +1,15 @@
+<div class="row">
+    <div class="col-md-6 col-lg-6">
+     <a class="ii "  (click)="click()">     <i class="fa fa-arrow-circle-o-down "></i></a>
+<button class="drop btn form-control " (click)="click()">
+   select 
+</button>
+<div    class="show form-group" *ngIf="select">
+    <input type="text" class=""  [(ngModel)]="searchText" >
+<div class="pip">
+    <li  *ngFor="let  cat of categorylist | searchFilter:searchText"><a (click)="cl()">{{cat.categoriesName}}</a></li>
+
+</div>
+</div>
+</div>
+</div>

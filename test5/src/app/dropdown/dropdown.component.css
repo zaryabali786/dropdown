@@ -1,0 +1,32 @@
+li{
+    list-style: none;
+}
+input{
+ width: 228px;
+    height: 30px;
+}
+.show{
+
+    padding: 2px;
+  
+
+
+}
+
+.drop{
+ 
+    height: 30px;
+    background-color: aliceblue;
+}
+i{
+position: absolute;
+z-index: 2;
+margin-left: 80%;
+margin-top: 10px;
+
+}
+.pip{
+    overflow-y: scroll;
+    background-color: rgb(243, 242, 240);
+    height: 250px;   
+}

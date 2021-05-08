@@ -1,0 +1,47 @@
+li{
+    list-style: none;
+}
+input{
+    height: 30px;
+    
+}
+.show{
+
+    padding: 2px;
+  
+
+
+}
+
+.drop{
+ 
+    height: 30px;
+    background-color: aliceblue;
+}
+i{
+position: absolute;
+z-index: 2;
+margin-left: 80%;
+margin-top: 10px;
+
+}
+
+.pip{
+    background-color: rgb(243, 242, 240);
+    overflow:auto;
+    width: auto;
+    height: 220px;
+
+}
+.green {
+    background-color: green;
+}
+
+
+ .message-list-active {
+    background-color: #CDE6F7;
+  
+     }
+ 
+
+  
